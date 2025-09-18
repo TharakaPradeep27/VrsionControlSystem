@@ -1,0 +1,4 @@
+hi mate!
+welcome to learn about github
+This is a tet line for git conflict:main branch
+
