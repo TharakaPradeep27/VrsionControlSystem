@@ -1,5 +1,0 @@
-hi mate!
-welcome to learn about github
-This is a tet line for git conflict:main branch
-Hi mate this is test!!!
-The testing line from test branch
